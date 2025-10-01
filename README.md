@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @achmadshafry
-- 👀 I’m interested in Front-end development and web programming.
+- 👀 Currently working as a Software Engineer at PT Kereta Api Indonesia (Persero).
 
 <!---
 achmadshafry/achmadshafry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
